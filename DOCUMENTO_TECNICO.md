@@ -1,6 +1,6 @@
 # Evidencia de aprendizaje 3 — IU Digital Radio
 
-**Estudiante:** _Escribe aquí tu nombre completo_  
+**Estudiante:** Brislleily Sirley Carmona Correa  
 **Programa:** Desarrollo de Software  
 **Asignatura:** Programación de dispositivos móviles  
 **Modalidad:** Individual  
